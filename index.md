@@ -10,3 +10,5 @@ I am ready to learn
 1. Thomas
 1. Pernille
 1. Bodil
+
+[Link til Danmarks Radio](http://www.dr.dk)
